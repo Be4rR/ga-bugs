@@ -1,0 +1,39 @@
+/* Set gradient here */
+body {  
+     /* background: linear-gradient(-90deg, purple, yellow);  */
+    /* background: linear-gradient(-90deg, black, pink, green ); */
+    /* background: linear-gradient(-90deg, yellow, orange, red, green, blue);*/
+    background: #222831;
+}
+
+div {
+    text-align: center;
+}
+
+canvas { 
+    /* display:block;
+    position: absolute;
+    left: 0;
+    top: 0; */
+    display:inline-block;
+    position: relative;
+    /* border: solid 2px #30475e; */
+    border: solid 2px #1a1f25;
+    margin: auto 0;
+}
+
+h1 {
+    color: #f2a365;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+h2 {
+    color: #f2a365;
+    font-family: 'Open Sans',sans-serif; 
+}
+
+p {
+    /* color: #ececec; */
+    color: #f2a365;
+    font-family: 'Helvetica Neue', sans-serif;
+}
